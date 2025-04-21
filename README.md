@@ -14,6 +14,16 @@ This is a full-stack web application that allows users to **add**, **delete**, a
 **Navigate to the backend folder and run:**
 
 ```bash
-cd backend
+cd 2-actual-backend
 npm install
 npm start
+
+### 📂 Frontend
+
+**Navigate to the frontend folder and run:**
+
+```bash
+cd myntra-clone
+npm install
+npm run dev
+
