@@ -17,6 +17,7 @@ This is a full-stack web application that allows users to **add**, **delete**, a
 cd 2-actual-backend
 npm install
 npm start
+```
 
 ### 📂 Frontend
 
@@ -26,4 +27,5 @@ npm start
 cd myntra-clone
 npm install
 npm run dev
+```
 
